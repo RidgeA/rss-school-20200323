@@ -1,0 +1,15 @@
+{
+  "name": "007-debug-nodejs-with-chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:debug": "node --inspect index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
